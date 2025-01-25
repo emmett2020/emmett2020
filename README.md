@@ -3,14 +3,13 @@
 ---
 💥 I’m Emmett Zhang, with work experience at **Tencent** and **ByteDance**. I specialize in **C++** and tackling a wide range of engineering challenges, with a primary focus on **internet backend development** and **GPU-related projects**.
 
-🥰 I'm a heavy fan of [Neovim](https://github.com/neovim/neovim).
-
 📫  Feel free to reach out via **Email**: [Email](emmettzhang2020@outlook.com)
 
 
 🎃 My stack:
 ---
 - 5+ years of experience in C++.
+- I'm a heavy fan of [Neovim](https://github.com/neovim/neovim).
 - Familiar with almost all mainstream languages, especially Golang, Python3, JavaScript, TypeScript and Lua5.1.
 - Familiar with algorithms and data structures, solve 500+ leetcode related problems.
 - Familiar with HTTP/1.1, HTTP2, TCP, UDP, and so on. Good at high concurrency server development.
