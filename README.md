@@ -1,7 +1,7 @@
 # Hi there 👋
 ✨ **About Me**
 ---
-I’m Emmett Zhang, with work experience at **Tencent** and **ByteDance**. I specialize in **C++** and tackling a wide range of engineering challenges, with a primary focus on **internet backend development** and **GPU-related projects**. Feel free to reach out via **Email**: [Email](emmettzhang2020@outlook.com)
+I’m Emmett Zhang, with work experience at **Tencent** and **ByteDance**. I specialize in **C++** and tackling a wide range of engineering challenges, with a primary focus on **internet backend development** and **GPU-related projects**. Feel free to reach out via : [Email](emmettzhang2020@outlook.com)
 
 
 🎃 My stack:
