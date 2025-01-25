@@ -1,4 +1,3 @@
-# Hi there 👋
 ✨ **About Me**
 ---
 I’m Emmett Zhang. I specialize in **C++** and tackling a wide range of engineering challenges, with a primary focus on **internet backend development** and **GPU-related projects**. Feel free to reach out via : [Email](emmettzhang2020@outlook.com)
