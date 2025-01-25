@@ -16,8 +16,6 @@
 - Familiar with HTTP/1.1, HTTP2, TCP, UDP, and so on. Good at high concurrency server development.
 - Familiar with QT, Electron, HTML, CSS, Vue. Developing UI is an aesthetic art.
 
----
-
 👾 My Journey
 ---
 
