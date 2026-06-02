@@ -3,25 +3,19 @@
 
 <p align="center">
   <a href="https://github.com/emmett2020">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Engineer;GPU+Computing;AI+Infrastructure;Building+AI+Agents" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Engineer;GPU+High+Performance+Kernel+Development;AI+Infra;Building+AI+Agents" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emmett2020&style=flat-square&color=76B900&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on** — GPU computing & AI infrastructure
-- 🌱 **Going deep on** — CUDA performance & AI agent systems
-- 💬 **Ask me about** — C++, high-performance systems, GPU, and backend
+- 🔭 **Currently working on** — GPU high performance kernel development, AI Infra & AI Agent
+- 💼 **Experience in** — Internet server development
+- 💬 **Ask me about** — C++, road trips, dogs, and fitness
 - 📫 **Reach me at** — emmettzhang2020@outlook.com
-- ⚡ **Fun fact** — I debug faster with a cup of coffee in hand ☕
 
-**🛠 Tech:**
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -59,4 +53,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emmett2020/emmett2020/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/emmett2020/emmett2020/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emmett2020&style=flat-square&color=76B900&label=Profile+views" alt="Profile views" />
 </p>
