@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Emmett Zhang 👋</h1>
-<p align="center"><b>C++ Engineer · GPU & AI Infrastructure</b></p>
 
 <p align="center">
   <a href="https://github.com/emmett2020">
