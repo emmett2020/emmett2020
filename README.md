@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Emmett Zhang 👋</h1>
 
+### 👨‍💻 About Me
+
 <p align="center">
   <a href="https://github.com/emmett2020">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Engineer;GPU+High+Performance+Kernel+Development;AI+Infra;Building+AI+Agents" alt="Typing SVG" />
   </a>
 </p>
-
-### 👨‍💻 About Me
 
 - 💼 **Experience in** — GPU high performance kernel development, AI Infra, AI Agent, Internet server development
 - 💬 **Ask me about** — C++, road trips, dogs, and fitness
