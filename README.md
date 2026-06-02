@@ -26,9 +26,13 @@ I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I bui
 ## 📊 GitHub Stats
 
 <!--
-  These cards use a SELF-HOSTED github-readme-stats instance on Vercel
-  (https://github-readme-stats-umber-three-90.vercel.app, env var PAT_1 = a GitHub token),
-  not the public one — to avoid 503 broken images. If cards break, the GitHub token likely expired: regenerate it, update PAT_1 in Vercel, and redeploy.
+  These cards use a SELF-HOSTED github-readme-stats instance, NOT the public one,
+  to avoid 503 broken images. How it was set up:
+    1. Source repo: https://github.com/anuraghazra/github-readme-stats (deploy it via the "Deploy" button)
+    2. Hosted on Vercel — log in to vercel.com with GitHub, import that repo, and deploy
+    3. Our instance: https://github-readme-stats-umber-three-90.vercel.app
+    4. Env var on Vercel: PAT_1 = a GitHub personal access token (github.com/settings/tokens)
+  If the cards break, the token likely expired: regenerate it, update PAT_1 in Vercel, then redeploy.
 -->
 <p align="center">
   <img height="165" src="https://github-readme-stats-umber-three-90.vercel.app/api?username=emmett2020&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=76B900" alt="Emmett's GitHub stats" />
