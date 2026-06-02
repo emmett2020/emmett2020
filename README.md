@@ -25,6 +25,11 @@ I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I bui
 
 ## 📊 GitHub Stats
 
+<!--
+  These cards use a SELF-HOSTED github-readme-stats instance on Vercel
+  (https://github-readme-stats-umber-three-90.vercel.app, env var PAT_1 = a GitHub token),
+  not the public one — to avoid 503 broken images. If cards break, the GitHub token likely expired: regenerate it, update PAT_1 in Vercel, and redeploy.
+-->
 <p align="center">
   <img height="165" src="https://github-readme-stats-umber-three-90.vercel.app/api?username=emmett2020&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=76B900" alt="Emmett's GitHub stats" />
   <img height="165" src="https://github-readme-stats-umber-three-90.vercel.app/api/top-langs/?username=emmett2020&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080" alt="Emmett's most used languages" />
