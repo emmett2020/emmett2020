@@ -1,0 +1,74 @@
+name: Software Watch
+
+on:
+  # daily at 00:00 UTC (08:00 Beijing time)
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allow manual runs
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch latest versions and diff against saved state
+        id: watch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT_DIR: ${{ runner.temp }}
+        run: python3 .github/software-watch/watch.py
+
+      - name: Ensure labels exist
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create software-watch \
+            --color 0E8A16 \
+            --description "A tracked tool released a new version" --force
+          gh label create software-watch-dashboard \
+            --color 1D76DB \
+            --description "Software Watch living dashboard" --force
+
+      - name: Open change issue (mode A)
+        if: steps.watch.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "🔔 Software updates — $(date -u +%Y-%m-%d)" \
+            --body-file "$RUNNER_TEMP/changes.md" \
+            --label software-watch
+
+      - name: Update dashboard issue (mode B)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          num=$(gh issue list --label software-watch-dashboard --state open \
+            --json number --jq '.[0].number')
+          if [ -z "$num" ]; then
+            gh issue create \
+              --title "📊 Software Watch Dashboard" \
+              --body-file "$RUNNER_TEMP/dashboard.md" \
+              --label software-watch-dashboard
+          else
+            gh issue edit "$num" --body-file "$RUNNER_TEMP/dashboard.md"
+          fi
+
+      - name: Commit updated state (only when versions changed)
+        run: |
+          if ! git diff --quiet -- .github/software-watch/state.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .github/software-watch/state.json
+            git commit -m "chore(software-watch): update tracked versions"
+            git push
+          fi
