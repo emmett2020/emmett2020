@@ -6,8 +6,6 @@
   </a>
 </p>
 
----
-
 ### 👨‍💻 About Me
 
 - 💼 **Experience in** — GPU high performance kernel development, AI Infra, AI Agent, Internet server development
