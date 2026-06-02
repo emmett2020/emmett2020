@@ -28,8 +28,9 @@ I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I bui
 <!--
   These cards use a SELF-HOSTED github-readme-stats instance, NOT the public one,
   to avoid 503 broken images. How it was set up:
-    1. Source repo: https://github.com/anuraghazra/github-readme-stats (deploy it via the "Deploy" button)
-    2. Hosted on Vercel — log in to vercel.com with GitHub, import that repo, and deploy
+    1. Source repo: our own fork at https://github.com/emmett2020/github-readme-stats
+       (forked from https://github.com/anuraghazra/github-readme-stats)
+    2. Hosted on Vercel — log in to vercel.com with GitHub, import our fork, and deploy
     3. Our instance: https://github-readme-stats-umber-three-90.vercel.app
     4. Env var on Vercel: PAT_1 = a GitHub personal access token (github.com/settings/tokens)
   If the cards break, the token likely expired: regenerate it, update PAT_1 in Vercel, then redeploy.
