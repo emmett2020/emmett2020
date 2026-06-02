@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Emmett Zhang 👋</h1>
 <p align="center"><b>C++ Engineer · GPU & AI Infrastructure</b></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emmett2020&style=flat-square&color=76B900&label=Profile+views" alt="Profile views" />
+</p>
+
 ---
 
 I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I build high-performance systems and work on **AI agents**, drawing on a solid background in internet backend development.
