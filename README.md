@@ -2,28 +2,37 @@
 <p align="center"><b>C++ Engineer · GPU & AI Infrastructure</b></p>
 
 <p align="center">
+  <a href="https://github.com/emmett2020">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=76B900&center=true&vCenter=true&width=600&lines=C%2B%2B+Systems+Engineer;GPU+Computing;AI+Infrastructure;Building+AI+Agents" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=emmett2020&style=flat-square&color=76B900&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
 
-I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I build high-performance systems and work on **AI agents**, drawing on a solid background in internet backend development.
+### 👨‍💻 About Me
 
-📫 Reach me at **emmettzhang2020@outlook.com**
+- 🔭 **Currently working on** — GPU computing & AI infrastructure
+- 🌱 **Going deep on** — CUDA performance & AI agent systems
+- 💬 **Ask me about** — C++, high-performance systems, GPU, and backend
+- 📫 **Reach me at** — emmettzhang2020@outlook.com
+- ⚡ **Fun fact** — I debug faster with a cup of coffee in hand ☕
 
-## 🛠 Tech Stack
+**🛠 Tech:**
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="GPU" />
+<img src="https://img.shields.io/badge/AI%20Infra-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Infra" />
+<img src="https://img.shields.io/badge/AI%20Agent-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/GPU-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="GPU" />
-  <img src="https://img.shields.io/badge/AI%20Infra-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Infra" />
-  <img src="https://img.shields.io/badge/AI%20Agent-412991?style=flat-square&logo=openai&logoColor=white" alt="AI Agent" />
-</p>
+---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <!--
   These cards use a SELF-HOSTED github-readme-stats instance, NOT the public one,
@@ -40,7 +49,9 @@ I'm a C++ engineer focused on **GPU computing** and **AI infrastructure**. I bui
   <img height="165" src="https://github-readme-stats-umber-three-90.vercel.app/api/top-langs/?username=emmett2020&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080" alt="Emmett's most used languages" />
 </p>
 
-## 🐍 Contribution Graph
+---
+
+### 🐍 Contribution Graph
 
 <p align="center">
   <picture>
